@@ -1,2 +1,2 @@
 # AnimationExample
-An example of spritesheet animation in [[https://processing.org/|Processing]]
+An example of spritesheet animation in [Processing](https://processing.org/)
