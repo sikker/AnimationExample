@@ -17,7 +17,6 @@ int lastFrame = 0;
 void setup() {
   size(800,600);
   spritesheet = loadImage("horsesheet.png");
-
 }
 
 void draw() {
